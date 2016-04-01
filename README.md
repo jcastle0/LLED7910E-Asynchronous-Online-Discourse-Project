@@ -32,4 +32,4 @@ This project is meant to be foundational towards my larger research agenda into 
 
 ### The Phenomena of the Orphan Post
 
-### The Phenomena of Overactive and Underactive Students in Academic Asynchronous Discussions
+### The Phenomena of Overactive and Underactive Students
