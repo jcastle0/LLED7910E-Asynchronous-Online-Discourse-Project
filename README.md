@@ -40,7 +40,7 @@ In working with this dataset, I identifies several broad categories for how asyn
 - Group Workspaces
 - General Discussion
 
-Each of these classifications are breifly described below:
+Each of these classifications are breifly described below:  
 *Help:* These are discussions designed for students to ask for help with various course elements. Often, these discussions focus on technological help and course logistics help.  
 *Introductions:* These discussions are designed as a mechanism for students to get to know one another. They usually occur at the beginning of the course, often as one of the first course activities.  
 *Academic:* These discussions usually involve the instructor posting a prompt and the students responding to the prompt. The students are usually then expected to reply to one another's thoughts via threaded discussions where posts and replys are linked together. These are the types of dicussions this project attempts to unpack.  
