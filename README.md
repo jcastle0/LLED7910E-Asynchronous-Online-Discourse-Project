@@ -28,7 +28,7 @@ With the level of access to data required to conduct this analysis, the research
 
 ### Technologies Used in Working with the Dataset
 
-In order to gather this data, the researcher used the application programming interface (API) for the learning management system (LMS) that is used at the institution where the research was conducted. The data was gathered using the Python programming language, and it was stored in the MongoDB database system. The data analysis for this project was conducted using the Python programming language and Google Sheets. The researcher will make all of the Python scripts used to analyze this data available as an appendix.
+In order to gather this data, the researcher used the application programming interface (API) for the learning management system (LMS) that is used at the institution where the research was conducted. The data was gathered using the Python programming language, and it was stored in the MongoDB database system. The data analysis for this project was conducted using the Python programming language and Google Sheets. The majority of the Python scripts written in the course of this project [can be viewed here](https://github.com/jcastle0/LLED7910E-Asynchronous-Online-Discourse-Project/tree/master/Data%20Analysis%20Scripts).
 
 ## How Asynchronous Discussions are Used
 
