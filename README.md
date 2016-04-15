@@ -32,6 +32,21 @@ In order to gather this data, the researcher used the application programming in
 
 ## How Asynchronous Discussions are Used
 
+In working with this dataset, I identifies several broad categories for how asynchronous discussions are used in online courses. Those categories are as follows:
+
+- Help
+- Introductions
+- Academic
+- Group Workspaces
+- General Discussion
+
+Each of these classifications are breifly described below:
+*Help:* These are discussions designed for students to ask for help with various course elements. Often, these discussions focus on technological help and course logistics help.
+*Introductions:* These discussions are designed as a mechanism for students to get to know one another. They usually occur at the beginning of the course, often as one of the first course activities.
+*Academic:* These discussions usually involve the instructor posting a prompt and the students responding to the prompt. The students are usually then expected to reply to one another's thoughts via threaded discussions where posts and replys are linked together. These are the types of dicussions this project attempts to unpack.
+*Group Workspaces:* These discussions are used by students who are working on group projects or undertaking some other activity as a group. Commonly, these discussions last over longer durations, as students use the asynchronous discussions to coordinate group activities.
+*General Discussions:* These discussions are often academic in nature, however the instructor does not provide a prompt. Rather, the students are given free reign to post about whatever comes to mind in relation to a given unit of instruction.
+
 ### The Process of Identifying Useful Data
 
 ## Characteristics of Academic Asynchronous Discussions
