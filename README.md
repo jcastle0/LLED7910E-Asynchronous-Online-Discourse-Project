@@ -54,6 +54,20 @@ Each of these classifications are breifly described below:
 
 ### The Process of Identifying Useful Data
 
+With 7,581 discussion topics represented in the dataset, my first task was to identify the discussion topics that are relevant to the research I am conducting (specifically, *academic* topics as described above). In order to do this, I built a spreadsheet with all of the discussion names and prompts listed. Then, reading each of the 7,581 discussion prompts, I made a snap judgement as to which category the discussion likely fell into. Often, this was clear. For example, "Introduction" discussions are commonly titled "Introduce Yourself" or "Introduction." Other times, the intent of the disucssion was not as clear. In those cases, if the discussion could reasonably have been academic in nature, I marked it "Academic".
+
+After the process of tagging all 7,581 discussion topics was complete, I had 6,803 topics tagged as "Academic". I then took a random sampling of 2% of those topics (136) and examined those topics in depth. Upon examining each of the 136 topics, I made a determination as to whether or not the topic was "Academic" in the sense described in the above section. Of the 136 topics, I found 68 of meet the criteria for academic usage. I then calculated a series of descriptive statistics on those 68 topics. Those statistics can be viewed in the table below:
+
+| Statistic     | Mean          | Median    | Standard Deviation |
+| ------------- | ------------- | --------- | ------------------ |
+| Posts per Instructor  | 2.56 | 0.00 | 5.75 |
+| Posts per Student  | 2.81 | 2.45 | 1.24 |
+| Number of Instructors | 0.41 | 0.00 | 0.50 |
+| Number of Students | 11.68 | 10.50 | 8.02 |
+| Number of Threads | 11.22 | 7.50 | 10.23 |
+| Number of Original Posts Per Student | 0.93 | 1.00 | 2.67 |
+| Topic Duration in Days | 8.38 | 6.00 | 8.47 |
+
 ## Characteristics of Academic Asynchronous Discussions
 
 ## Who Posts in Asynchronous Online Discussions?
