@@ -77,11 +77,19 @@ Of these data, I determined that *Posts per Instructor* and *Number of Instructo
 | Number of Students | Greater than 2 | In examining the sample topics, I found that topics with fewer than three students were often group work spaces. |
 | Posts Per Student | Between 1.5 and 6.8 | This filter reflects a range from one standard deviation below the sample mean up to the maximum value for this criteria from all the sample topics. |
 
+Upon applying these filters to the 6,803 topics previously marked as academic, I was left with 2,260 topics made up of 82,730 discussion posts. This represents the dataset that is used throughout the project. As this project continues to grow, I plan to have other people undertake a process similar to the one described here to see if they arrive at similar numbers in order to strengthen inter-rater reliability.
+
 ## Characteristics of Academic Asynchronous Discussions
+
+Using this filtered, focused dataset, my next goal was to broadly describe the characteristics of asynchronous online discussions. I found this important to building the concecpt of the Discourse of asynchronous online discussions because these discussion areas are unique spaces. I did not want to assume that these spaces mirror classrooms or other learning environments. Conversly, I wanted to begin with no assumptions regarding the makeup of these discussions.
 
 ## Who Posts in Asynchronous Online Discussions?
 
-### The Extent of Participation Across Different Groups
+The 2,260 discussion topics I analyzed were dominated by student created content. Of the 82,730 discussion posts in those discussions, 76,351 (93.2%) of them were created by students. Another 5,228 (6.4%) of them were created by instructors, and the remaining posts were made by teaching assistants and people in various support roles. Additionally, I performed a word count on the discussion posts from these topics. The total word count across all 82,730 posts was 13,512,291 words. Students were responsible for the creation of 13,102,165 (97%) of those words. On average, a student's post consisted of 172 words, and an instructor's post consisted of 75 words.
+
+While it is clear that there would be many more student posts than instructor posts (there are many more instructors than students, after all), I also checked to see how many topics had any instructor activity in them at all. Of the 2,260 discussion topics analyzed, 873 (38.9%) of them contained at least one post from someone with the role of instructor, and 1,373 (61.1%) contained no instructor posts at all. The presence of teaching assistants much lower, with only 2.6% of discussion topics having any presence from someone with the role of teaching assistant.
+
+These data make it clear that asynchronous online discussions are the domain of students. What cannot be known from this dataset is the extent to which each instructor took steps to help shape the use of discussions in each course. One of my working hypothoses is that the expectation set by the instructor will have a profound effect on the usage of asynchronous discussions by students in a course. In the following sections, I will examine some specific behaviors uncovered as a result of this analysis and tie those behaviors back into this student-dominated discussion space.
 
 ## Specific Behaviors Found in the Discourse of Academic Asynchronous Discussions
 
