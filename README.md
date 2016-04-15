@@ -68,6 +68,15 @@ After the process of tagging all 7,581 discussion topics was complete, I had 6,8
 | Number of Original Posts Per Student | 0.93 | 1.00 | 2.67 |
 | Topic Duration in Days | 8.38 | 6.00 | 8.47 |
 
+Of these data, I determined that *Posts per Instructor* and *Number of Instructors* were not useful for identifying academic discussions because it is very common practice for instructors to communicate with students outside of the discussion areas. The median posts per instructor and number of instructors at zero was indicative of this practice. Additionally, the standard deviations for number of students and number of threads are both quite high. This is likely because there are wide variations in class size among the sampled discussion topics. Using the data generated from this sample of 68 academic discussions, I applied a set of filters to the 6,803 topics that I had previously labeled as "Academic". The filters used as a result of this analysis are as follows:
+
+| Criteria  | Filter    | Rationale |
+| --------- | --------- | --------- |
+| Length of Discussion | Less than 15 Days | The sample showed that the mean was just over eight days, and the standard deviation was approximately another eight days. Given this data, setting a parameter of two weeks made sense. |
+| Number of Original Posts Per Student | Greater than .65 | The mean value for the sample was .93, with a standard deviation of .34. This indicates that often in academic style discussions, students are expected to make a single original post, but students do not always meet that expectation. Therefore, this filter is meant to reflect any discussion topic where at least 65% of students meet the expectation of making an original post. |
+| Number of Students | Greater than 2 | In examining the sample topics, I found that topics with fewer than three students were often group work spaces. |
+| Posts Per Student | Between 1.5 and 6.8 | This filter reflects a range from one standard deviation below the sample mean up to the maximum value for this criteria from all the sample topics. |
+
 ## Characteristics of Academic Asynchronous Discussions
 
 ## Who Posts in Asynchronous Online Discussions?
