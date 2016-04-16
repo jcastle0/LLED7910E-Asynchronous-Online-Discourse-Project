@@ -105,7 +105,11 @@ Of the 82,730 posts in the dataset, 27,638 of them were original posts. Of those
 
 ![Bar chart showing number of courses in each percent orphan range](https://raw.githubusercontent.com/jcastle0/LLED7910E-Asynchronous-Online-Discourse-Project/master/img/num_courses_percent_orphans.png)
 
+The above chart shows the number of courses in each specified range for percentage of overall orphaned original posts in asynchronous online discussions.
+
 ![Scatterplot showing the number of posts per course vs the percentage of orphans per course](https://raw.githubusercontent.com/jcastle0/LLED7910E-Asynchronous-Online-Discourse-Project/master/img/op_percent_orphans_per_course.png)
+
+The above scatterplot compares the number of original posts per course to the percentage of orphans per course. Each dot repeasents one course.
 
 An important part of participating in online asynchronous discussions is the notion that other students will read the things that you have written. In other words, online asynchronous discussions are not meant to be secret diaries where an individual's thoughts are locked away, safe from the interpretation of others. In fact, the work students put into creating posts for these discussions should go toward helping not only that student learn, but also helping other students learn. In this way, the student-to-student interaction of asynchronous online discussions should facilitate learning. However, if a student arrives at the expectation that other students are not reading his or her work, and the student never receives any critique, commendation, or other comment on his/her work, then the dynamic of students learning from one another in these discussions stands to be lost. As such, it is logical to conclude that being the author of orphaned posts could lead to the degradation of post quality and student motivation, changing the Discourse of the asynchronous online discussions for that course. Therefore, it is important to investigate this phenomena further.
 
