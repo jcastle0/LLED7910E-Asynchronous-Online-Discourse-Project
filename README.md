@@ -126,3 +126,4 @@ This helps to characterize the Discourse of asynchronous online discussions by c
 ## References
 
 Gee, J. (2015). *Social linguistics and literacies: Ideology in discourses* (4th ed.). Abingdon, Oxon: Routledge.
+Wong, L. (2014). *Essential Study Skills* (8th ed.). Cengage Learning.
