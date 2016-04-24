@@ -50,7 +50,7 @@ Each of these classifications are briefly described below:
 
 *Group Workspaces:* These discussions are used by students who are working on group projects or undertaking some other activity as a group. Commonly, these discussions last over longer durations, as students use the asynchronous discussions to coordinate group activities.  
 
-*General Discussions:* These discussions are often academic in nature, however the instructor does not provide a prompt. Rather, the students are given free reign to post about whatever comes to mind in relation to a given unit of instruction.  
+*General Discussions:* These discussions are often academic in nature, however the instructor does not provide a prompt. Rather, the students are given free reign to post about whatever comes to mind in relation to a given unit of instruction.
 
 ### The Process of Identifying Useful Data
 
@@ -78,6 +78,10 @@ Of these data, I determined that *Posts per Instructor* and *Number of Instructo
 | Posts Per Student | Between 1.5 and 6.8 | This filter reflects a range from one standard deviation below the sample mean up to the maximum value for this criteria from all the sample topics. |
 
 Upon applying these filters to the 6,803 topics previously marked as academic, I was left with 2,260 topics made up of 82,730 discussion posts. This represents the dataset that is used throughout the project. As this project continues to grow, I plan to have other people undertake a process similar to the one described here to see if they arrive at similar numbers in order to strengthen inter-rater reliability.
+
+### Posting Behaviors by Month
+
+Examining the use of asynchronous discussions month-by-month, I found that the most active months tend to be the first or second month of the semester. However, a lower percentage of posts made in the first month of the semester are in academic discussions. This is likely because introductory-style discussions are more active during the first month of a semester. However, as the semester goes on, the percentage of overall posts that are a part of academic discussions tends to increase, which suggests that the activity on the discussion forums becomes more focused on engaging with course topics as the semester goes on. One other note of interest: in two of the three tears represented in the dataset, March saw both a decrease in post volume and percentage of academic posts overall. This could be attributed to spring break, which falls during March at the institution being studied. Overall, more analysis is needed to better understand posting behaviors over time.
 
 ## Characteristics of Academic Asynchronous Discussions
 
