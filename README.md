@@ -127,6 +127,16 @@ In order to investigate this question, I used a subset of the courses present in
 
 This helps to characterize the Discourse of asynchronous online discussions by confirming that asynchronous online discussions share a common factor with traditional face-to-face discussions. Some students post prolifically, far exceeding the course mean, and others post far less than their classmates. As my work on this research progresses, I plan to examine the postings of each type of student, the overactive and underactive posters, to see what information can be gleaned from their work. Through analyzing the contributions of these students, I might begin to be able to unpack the elements of motivation that lead students to be high or low contributors to asynchronous online discussions. Eventually, I hope that this research will inform interventions that will help lead to more fruitful asynchronous online discussions for all learners.
 
+## Conclusion
+
+While there is much work left to be done in articulating the Discourse of asynchronous online discussions, this project has uncovered some interesting pieces of data that can further the conversation about what these discussions are and how they stand as their own Discourse space. In summary, here are a few key takeaways:
+
+1. On average, students produce more words in asynchronous online discussions than in traditional face-to-face discussions.
+2. In some courses, it is routine for a student's original post to go unrecognized by the class community, at least in terms of receiving a response. Current data cannot tell the rate at which these posts are read or viewed by other members of the class community.
+3. Although asynchronous online discussions produce more student activity than face-to-face discussions on average, asynchronous online discussions still feature both overactive and underactive students.
+
+While there is much more to the Discourse of asynchronous discussions than presented here, these points will help propel me forward in my research. Additionally, I plan to study the impact of time on these discussions, and I will eventually conduct a qualitative analysis of the messages posted on discussion board in asynchronous online discussions. This research project has helped to lay the foundation for all of the work ahead of me in this area.
+
 ## References
 
 Gee, J. (2015). *Social linguistics and literacies: Ideology in discourses* (4th ed.). Abingdon, Oxon: Routledge.  
