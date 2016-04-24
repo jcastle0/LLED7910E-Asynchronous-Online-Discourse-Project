@@ -125,4 +125,4 @@ This helps to characterize the Discourse of asynchronous online discussions by c
 
 ## References
 
-Gee, J. (2012). *Social linguistics and literacies: Ideology in discourses* (4th ed.). Abingdon, Oxon: Routledge.
+Gee, J. (2015). *Social linguistics and literacies: Ideology in discourses* (4th ed.). Abingdon, Oxon: Routledge.
